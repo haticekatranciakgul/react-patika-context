@@ -6,8 +6,8 @@ function Button() {
     console.log(data)
 
   return (
-    <div>
-      
+    <div>button
+      {data}
     </div>
   )
 }
